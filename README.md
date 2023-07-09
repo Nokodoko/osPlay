@@ -11,4 +11,3 @@ Here are some command re-writes in golang, as well as some work with http respon
 9. newMain.go
 10. resp.go
 11. wireshark.go
-osPlay
